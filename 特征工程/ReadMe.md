@@ -5,5 +5,6 @@
 http://breezedeus.github.io/2014/11/15/breezedeus-feature-processing.html
 
 ### 特征哈希
-1.参考博文：
-https://blog.csdn.net/qjf42/article/details/82387559
+1.参考博文：  
+https://blog.csdn.net/qjf42/article/details/82387559  
+https://blog.csdn.net/sun_wangdong/article/details/86565811
